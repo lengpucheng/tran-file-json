@@ -15,6 +15,10 @@ TFJ可以将指定文件夹或文件编码成一个文本文件😊将一个编�
 ```shell
 .\tfj.exe -o <cmd> -f <file> -t <targer>
 ```
+若linux提示不是可执行持续使用以下命令赋予权限
+```shell
+sudo chmod +x tfj
+```
 # 设置为系统命令
 linux下将文件拷贝至`tfj /usr/bin/`
 ```shell
